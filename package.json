@@ -2,11 +2,14 @@
   "name": "ftube",
   "version": "1.0.0",
   "description": "video streaming backend ",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "FrojBabu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
