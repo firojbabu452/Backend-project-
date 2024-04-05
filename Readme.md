@@ -1,1 +1,7 @@
-last watch time 4:48:37  remaining part 5:18:59
+Important Notes About DB
+When we want to connect with db that time we have to use asynce and await never use one line code to connect db 
+
+
+
+1st way to connect db
+
